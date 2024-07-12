@@ -5,6 +5,5 @@ public class Restaurant {
 	private String name;
 	private int addresses;
 	private int time;
-	//may check1
 	//david check
 }
