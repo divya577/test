@@ -6,4 +6,5 @@ public class Restaurant {
 	private int addresses;
 	private int time;
 	//may check1
+	//david check
 }
